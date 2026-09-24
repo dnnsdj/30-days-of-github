@@ -24,7 +24,7 @@ I just need to show up.
 
 ## Progress
 
-* [ ] Day 01
+* [x] Day 01
 * [ ] Day 02
 * [ ] Day 03
 * [ ] Day 04
