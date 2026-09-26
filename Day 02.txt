@@ -1,0 +1,13 @@
+# Day 02 — September 26, 2026
+
+I missed reporting Day 02 on the 25th, so I’m making this update today to keep the challenge honest and consistent.
+
+Today I did not build or ship anything major. I spent time taking an AWS trial test to assess my current level and identify where I need more practice. It was not a coding build day, but it was still valuable learning and self-checking.
+
+This is a good reminder that consistency is not only about shipping projects. Sometimes consistency means:
+- showing up,
+- reviewing your skills,
+- identifying weak points,
+- and continuing anyway.
+
+I am still working on the challenge, and this counts as progress because I am staying committed, learning, and not skipping the habit.
