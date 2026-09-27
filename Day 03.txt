@@ -1,0 +1,12 @@
+# Day 03 — September 27, 2026
+
+Today I mainly focused on taking the Amalitech AWS test. It was not a coding or project-build day, but it was still a meaningful step in my development journey.
+
+This test helped me:
+- assess my current AWS knowledge,
+- identify areas where I need more practice,
+- and stay consistent with the 30-day challenge even on days that are more about learning than shipping.
+
+Not every day has to be a major build. Some progress is about checking your level, learning what you do not know yet, and preparing to improve.
+
+This still counts as real progress because I showed up, tested myself, and kept the habit going.
