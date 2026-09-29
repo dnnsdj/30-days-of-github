@@ -2,9 +2,9 @@
 
 ## The Goal
 
-For the next 30 days, I will show up every single day and learn something about Git and GitHub.
+For the next 30 days, I will show up every single day and make a genuine commit.
 
-This isn't a coding challenge.
+This isn't just a challenge to learn GitHub.
 
 It's a **consistency challenge**.
 
@@ -16,8 +16,8 @@ I just need to show up.
 
 * Show up every day for 30 days.
 * Make at least one genuine commit every day.
-* Learn something about Git or GitHub.
-* Practice what I learn.
+* Use each commit to document what I am actually working on.
+* Keep learning and practicing along the way.
 * Keep track of my progress.
 * Don't aim for perfection.
 * Don't skip a day because the work feels small.
@@ -28,7 +28,7 @@ I just need to show up.
 * [x] Day 02
 * [x] Day 03
 * [x] Day 04
-* [ ] Day 05
+* [x] Day 05
 * [ ] Day 06
 * [ ] Day 07
 * [ ] Day 08
